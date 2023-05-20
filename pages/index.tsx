@@ -23,18 +23,18 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://alcashzone.com/category/adsterra-earning/" className={styles.card}>
+          <a href="https://animotvslash.carrd.co" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Here you can find how to earn money from Adsterra .</p>
           </a>
 
-          <a href="https://alcashzone.com/category/adsense-approval/" className={styles.card}>
+          <a href="https://animotvslash.carrd.co" className={styles.card}>
             <h2>Master In AdSense Approval &rarr;</h2>
             <p>Here you can find the of how you become master in AdSense approval!</p>
           </a>
 
           <a
-            href="https://alcashzone.com/category/blogging/"
+            href="https://animotvslash.carrd.co"
             className={styles.card}
           >
             <h2>Blogging &rarr;</h2>
@@ -42,7 +42,7 @@ const Home: NextPage = () => {
           </a>
 
           <a
-            href="https://newstick.us"
+            href="https://animotvslash.carrd.co"
             className={styles.card}
           >
             <h2>News &rarr;</h2>
